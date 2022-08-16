@@ -1,19 +1,14 @@
-### Hi there 👋
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Lanbai-eleven&count_private=true&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight" /> </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanbai-eleven&count_private=true&hide_title=true&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=tokyonight" /> </div>
+### A Code Rookie 👋
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Lanbai-eleven&theme=rogue" /> </div>
-<!--
-**Lanbai-eleven/Lanbai-eleven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Lanbai-eleven&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanbai-eleven&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight&include_all_commits=true&count_private=true" /> </div>
+  
+</div>
+<br>
 
-Here are some ideas to get you started:
+<div align="center"> <img height="80%" width="80%" src="https://activity-graph.herokuapp.com/graph?username=Lanbai-eleven&theme=rogue" /> </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
