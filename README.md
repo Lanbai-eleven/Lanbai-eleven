@@ -1,8 +1,8 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanbai-eleven&count_private=true&show_icons=true&theme=tokyonight)
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Lanbai-eleven&count_private=true&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanbai-eleven&count_private=true&hide_title=true&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=tokyonight" /> </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanbai-eleven&count_private=true)](https://github.com/Lanbai-eleven/github-readme-stats)
-
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Lanbai-eleven&theme=rogue" /> </div>
 <!--
 **Lanbai-eleven/Lanbai-eleven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
