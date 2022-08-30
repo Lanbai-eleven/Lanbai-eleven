@@ -14,8 +14,8 @@
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Lanbai-eleven&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="137px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanbai-eleven&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight&count_private=true" />
+  <img height="137px" src="https://github-readme-stats-eight-rust-37.vercel.app/api?username=Lanbai-eleven&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="137px" width="40%" src="https://github-readme-stats-eight-rust-37.vercel.app/api/top-langs/?username=Lanbai-eleven&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight&count_private=true" />
 </div>
 <br>
 
