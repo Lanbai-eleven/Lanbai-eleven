@@ -19,6 +19,6 @@
 </div>
 <br>
 
-![My GitHub stats](https://github-readme-stats-lanbai-eleven.vercel.app/api?username=Lanbai-eleven&show_icons=true&theme=tokyonight)
+<div align="center"> <img height="50%" width="50%" src="https://github-readme-stats-lanbai-eleven.vercel.app/api?username=Lanbai-eleven&show_icons=true&theme=tokyonight" /> </div>
 
 
