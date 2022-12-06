@@ -19,5 +19,6 @@
 </div>
 <br>
 
-<div align="center"> <img height="80%" width="80%" src="https://activity-graph.herokuapp.com/graph?username=Lanbai-eleven&theme=rogue" /> </div>
+![My GitHub stats](https://github-readme-stats-lanbai-eleven.vercel.app/api?username=Lanbai-eleven&show_icons=true&theme=tokyonight)
+
 
