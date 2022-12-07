@@ -19,6 +19,7 @@
 </div>
 <br>
 
-<div align="center"> <img height="50%" width="50%" src="https://github-readme-stats-lanbai-eleven.vercel.app/api?username=Lanbai-eleven&show_icons=true&theme=tokyonight" /> </div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lanbai-eleven&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
