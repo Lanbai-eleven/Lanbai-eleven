@@ -8,9 +8,7 @@
   </a>
 </h1>
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
-
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lanbai-eleven&theme=tokyonight" /> </div>
 
 <!-- GitHub数据统计 -->
 <div align="center">
