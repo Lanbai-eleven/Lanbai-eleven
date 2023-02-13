@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lanbai-eleven&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lanbai-eleven&theme=tokyonight&include_all_commits=true" /> </div>
 
 <!-- GitHub数据统计 -->
 <div align="center">
